@@ -11,6 +11,3 @@ int main(){
 - [ ] todo1
 - [x] todo2
 - [ ] todo3
-
-extra
-extra
