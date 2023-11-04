@@ -8,6 +8,6 @@ int main(){
 }
 ```
 
-- [] todo1
+- [ ] todo1
 - [x] todo2
 - [ ] todo3
